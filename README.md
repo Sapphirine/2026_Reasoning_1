@@ -19,6 +19,8 @@ Problem
 
 The implementation is designed for the EECS E6895 final project rubric: it includes a reproducible codebase, report source, presentation/demo materials, deterministic ablations, and scripts for full MATH/OlympiadBench evaluation when API keys are available.
 
+Demo video: https://youtu.be/o0v2DL19Rsg
+
 ## Main Contributions
 
 | Requirement from task split | Implementation |
